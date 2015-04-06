@@ -1,1 +1,4 @@
-# rails_command_line
+# http://guides.rubyonrails.org/getting_started.html
+
+
+
